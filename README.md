@@ -1,4 +1,4 @@
-# Borderlands 4 SHiFT Friends Management PAK
+# Borderlands 4 SHiFT Auto Accepter & Friends Management PAK
 
 Azzy SHiFT Friends Management is a Borderlands 4 utility PAK for faster and easier SHiFT friend management.
 
