@@ -48,3 +48,6 @@ If you want to use Azzy SHiFT Friends Management in your own project, I’m happ
 Discords:
 https://discord.gg/eh4nEpX93H
 https://discord.gg/Ve7ZEpNDzF [project testing discord for my Bl4 save editor and apk]
+
+
+# THIS PROJECT WAS ORIGINALLY BEHIND @MATTMAB I HAD PERMISSION TO EDIT AND RECREATE HIS PROJECT. 
