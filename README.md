@@ -23,9 +23,9 @@ It can automatically accept, decline, or ignore friend requests and game invites
 
 ## Used by
 
-- MSBT
+- MSBT [https://github.com/funkyoushift/MattsSDKBoostingTools/releases]
 - SBT [https://github.com/Squ1ggs/Bl4SDKmods/releases]
-- AzzyUVHBooster
+- AzzyUVHBooster [
 
 ## Installation
 
