@@ -50,4 +50,4 @@ https://discord.gg/eh4nEpX93H
 https://discord.gg/Ve7ZEpNDzF [project testing discord for my Bl4 save editor and apk]
 
 
-# THIS PROJECT WAS ORIGINALLY BEHIND @MATTMAB I HAD PERMISSION TO EDIT AND RECREATE HIS PROJECT. 
+# THIS PROJECT WAS ORIGINALLY BEHIND @mattmab [https://github.com/mattmab] I HAD PERMISSION TO EDIT AND RECREATE HIS PROJECT. 
